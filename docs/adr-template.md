@@ -1,7 +1,7 @@
 <!--
 Adapted from MADR 4.0.0.
 SPDX-License-Identifier: MIT
-See docs/decisions/attribution.md for attribution and licensing.
+See docs/attribution.md for attribution and licensing.
 -->
 
 # {short title, representative of solved problem and found solution}
