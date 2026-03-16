@@ -12,4 +12,4 @@ adapted MADR 4.0.0 template.
 
 ## Attribution
 
-The template in this directory is adapted from MADR. See `docs/decisions/attribution.md` for attribution and license details.
+The template in this directory is adapted from MADR. See `docs/attribution.md` for attribution and license details.
